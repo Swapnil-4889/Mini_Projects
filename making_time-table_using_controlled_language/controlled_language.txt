@@ -1,0 +1,43 @@
+Tab-1 is-a table
+Tab-1 has-row Monday
+Tab-1 has-row Tuesday
+Tab-1 has-row Wednesday
+Tab-1 has-row Thursday
+Tab-1 has-row Friday
+Monday has-slot CY
+Monday has-slot AM
+Monday has-slot L 
+Monday has-slot MM
+Monday has-slot MA
+Tuesday has-slot ME
+Tuesday has-slot AM
+Tuesday has-slot L
+Tuesday has-slot HS
+Tuesday has-slot PH
+Wednesday has-slot AM
+Wednesday has-slot L 
+Wednesday has-slot HS
+Wednesday has-slot PH
+Thursday has-slot CY
+Thursday has-slot L
+Thursday has-slot MM
+Thursday has-slot MA
+Friday has-slot ME
+Friday has-slot L
+Friday has-slot HS
+CY starts-at 8:00 Hrs
+CY ends-at 10:00 Hrs
+ME starts-at 9:00 Hrs
+ME ends-at 11:00 Hrs
+AM starts-at 11:00 Hrs
+AM ends-at 12:00 Hrs
+L starts-at 12:00 Hrs
+L ends-at 13:00 Hrs
+HS starts-at 13:00 Hrs
+HS ends-at 14:00 Hrs
+MM starts-at 13:00 Hrs
+MM ends-at 15:00 Hrs
+MA starts-at 15:00 Hrs
+MA ends-at 17:00 Hrs
+PH starts-at 16:00 Hrs
+PH ends-at 17:00 Hrs
