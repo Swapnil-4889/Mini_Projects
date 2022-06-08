@@ -1,1 +1,1 @@
-To wite a program that can take images as inputs and report the number of objects as output. Assumingat the objects are colored uniformly but different from the background which is also uniform. Not assuming the objects to be of same size or shape.
+To wite a program that can take images as inputs and report the number of objects as output. Assuming that the objects are colored uniformly but different from the background which is also uniform. Not assuming the objects to be of same size or shape.
