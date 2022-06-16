@@ -1,1 +1,2 @@
 This is a TODO list application in python. This can be used add a task via running a python script which then gets stored in a file and thencan be again read using the same python script. The tasks can be deleted and be marked as done. The tasks marked as done are put into another file that contains the tasks that have been done.
+Make sure to keep the file names unchanged while running the script.
